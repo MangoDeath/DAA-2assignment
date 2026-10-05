@@ -1,6 +1,7 @@
 ﻿# DAA - Assignment 2 report - Who Goes Next
 
-Name: ____________________
+Name: Nauryzbay Kinayatov
+Group: SE-2536
 Barcode: 251449
 
 ## 1. Correctness
