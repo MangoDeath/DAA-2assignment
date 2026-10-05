@@ -3,6 +3,7 @@
 Name: Nauryzbay Kinayatov
 Group: SE-2536
 Barcode: 251449
+GitHub: [DAA-2assignment](https://github.com/MangoDeath/DAA-2assignment)
 
 ## 1. Correctness
 
