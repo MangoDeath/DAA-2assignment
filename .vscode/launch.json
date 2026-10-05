@@ -1,0 +1,33 @@
+﻿{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Assignment: Main (251449)",
+            "request": "launch",
+            "mainClass": "Main",
+            "args": "251449",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Assignment: Trace (251449)",
+            "request": "launch",
+            "mainClass": "Main",
+            "args": "251449 trace 6",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Assignment: Bench (251449)",
+            "request": "launch",
+            "mainClass": "Bench",
+            "args": "251449",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
+
